@@ -1,3 +1,7 @@
+# CodeAlpha Internship Tasks
+
+
+
 # Portfolio Website 🌐
 
 A personal portfolio website showcasing my skills, projects, and contact information.  
@@ -85,4 +89,39 @@ This project is created as part of the **CodeAlpha Internship**.
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+
+
+
+
+## ▶️ How to Run the Project
+1. Open the `Task-1_Image-Gallery` folder  
+2. Double click on `index.html`  
+3. The Image Gallery will open in your web browser  
+
+_No additional setup or installation required._
+
+---
+
+## 🎯 Project Objective
+The objective of this project is to practice **frontend layout design**, **responsive UI development**, and **basic JavaScript interactivity**.
+
+---
+
+## 🧠 Learning Outcomes
+- Understanding of responsive grid layouts  
+- Improved CSS styling skills  
+- Practical experience with DOM-based projects  
+
+---
+
+## 👤 Author
+**Krishna Sharma**
+
+---
+
+## 📄 Internship
+**CodeAlpha Internship – Frontend Development**
+
